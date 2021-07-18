@@ -4,8 +4,8 @@ OBJECTIVES
 - Finding number of unique values present in the DataFrame
 - Write functions in Python
 - Data Visualization by using Bar plot
-- changing the context of a plot
-- creating subplots
+- Changing the context of a plot
+- Creating subplots
 - Histogramic Analysis for Audi Used Cars Based on Year, Price, Mileage and mpg
 - Probabilistic Analysis of Audi used car for Price and Mileage
 - Distributive analysis of Audi used car Price for Mileage
