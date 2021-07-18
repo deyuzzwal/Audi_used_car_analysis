@@ -1,5 +1,5 @@
-# Audi used cars data visualization with python
-OBJECTIVES
+# Audi used cars analysis towards data visualization with python
+Objectives
 - Data Visualization using NumPy and Pandas
 - Finding number of unique values present in the DataFrame
 - Write functions in Python
